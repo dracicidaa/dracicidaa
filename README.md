@@ -1,4 +1,32 @@
-## Hi there 👋
+# About me
+I am a young professional that works with tea for a living. I have always wanted to get involved with opensource projects, and happened to benefit from learning Python for work.
+It is my highest hope to be able to continue to sharpen my skills with Python, and later more languages, at work and in the opensource community. I hope to out code my boss some day soon!
+
+### I'm currently learning:
+-General Python Programming (I am set to take a Python Institute exam for PCEP soon!)  
+-Automation with Python  
+-Testing with Python  
+-Electrical design  
+
+### Skills:
+-Ladder logic to an intermediate level (Studio 5000 is where you'll find me)  
+-Electrical troubleshooting  
+-High skill assembly  
+
+### I'm looking to collaborate on:
+-Opensource stuff  
+--Astronomy  
+--Games  
+--Science  
+--Rocketry  
+
+### Things I am into:
+-Beyond All Reason  
+-Linux operating systems  
+-Theology  
+
+
+
 
 <!--
 **dracicidaa/dracicidaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

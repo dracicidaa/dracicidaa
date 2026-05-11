@@ -3,7 +3,7 @@ I am a young professional that works with tea for a living. I have always wanted
 It is my highest hope to be able to continue to sharpen my skills with Python, and later more languages, at work and in the opensource community. I hope to out code my boss some day soon!
 
 ### I'm currently learning:
--General Python Programming (I am set to take a Python Institute exam for PCEP soon!)  
+-General Python Programming (I have passed the PCEP and am studying for the PCAP!)  
 -Automation with Python  
 -Testing with Python  
 -Electrical design  
